@@ -1,3 +1,4 @@
 Sample code 1
 bugfix2
 line3
+line4
