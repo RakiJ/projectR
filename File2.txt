@@ -1,4 +1,5 @@
 bugfixed
 newline2
 bugfixedagain
+line4
 
